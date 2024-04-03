@@ -1,0 +1,224 @@
+* {
+  font-family: Roboto, sans-serif;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local(Roboto), url(../../4f39c5796e60c9d8e732.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local(Roboto), url(../../13a29228654d5c5ec9c4.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local(Roboto), url(../../03523cf578d69fa92322.ttf);
+  font-weight: 400;
+}
+
+h1 {
+  font-family: "Roboto";
+  font-weight: 700 !important;
+  font-size: 44px !important;
+  line-height: 48px !important;
+}
+
+h2 {
+  font-family: "Roboto";
+  font-weight: 700 !important;
+  font-size: 34px !important;
+  line-height: 40px !important;
+}
+
+h3 {
+  font-family: "Roboto";
+  font-weight: 300 !important;
+  font-size: 23px !important;
+  line-height: 28px !important;
+}
+
+h4 {
+  font-family: "Roboto";
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  line-height: 24px !important;
+}
+
+h5 {
+  font-family: "Roboto";
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  line-height: 24px !important;
+}
+
+p {
+  font-family: "Roboto";
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 16px !important;
+  margin-bottom: 1rem !important;
+}
+
+label {
+  font-family: "Roboto";
+  font-weight: 400 !important;
+  font-size: 12px !important;
+  line-height: 16px !important;
+  color: #999999 !important;
+  margin: 10px 0 !important;
+}
+
+.shadow {
+  background-color: #fff;
+  color: black !important;
+  height: 80px;
+  position: fixed;
+  top: 0px;
+  z-index: 999;
+  padding: 0px 23px;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  transition: all 0.2s ease;
+  box-shadow: 1px 1px 3px #333;
+}
+
+.shadow a {
+  color: black !important;
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+
+/*# sourceMappingURL=components-pages-home-home-stories.52a2454a.chunk.css.map*/
